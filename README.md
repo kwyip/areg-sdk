@@ -12,10 +12,9 @@
 <table class="no-border">
   <tr>
     <!--<td><img src="https://github.com/aregtech/areg-sdk/actions/workflows/c-cpp.yml/badge.svg" alt="C++ compiltation"/></td>-->
-    
     <td><img src="https://github.com/aregtech/areg-sdk/actions/workflows/sonarqube.yml/badge.svg" alt="Sonarqube"/></td>
     <td><img src="https://github.com/aregtech/areg-sdk/actions/workflows/codeql-analysis.yml/badge.svg" atl="CodeQL"/></td>
-    <td><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" atl="CodeQL"/></td>
+    <td>[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Solution-Python-blue.svg?style=flat&logo=c%2B%2B&logoColor=b0c0c0&labelColor=363D44" alt="Python solution"/></td>
