@@ -17,7 +17,7 @@
     <td><img src="https://github.com/aregtech/areg-sdk/actions/workflows/codeql-analysis.yml/badge.svg" atl="CodeQL"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Solution-Python-blue.svg?style=flat&logo=#3776AB&logoColor=b0c0c0&labelColor=363D44" alt="Python solution"/></td>
+    <td><img src="https://img.shields.io/badge/Solution-Python-blue.svg?style=flat&logo=Python&logoColor=b0c0c0&labelColor=363D44" alt="Python solution"/></td>
     <td><img src="https://img.shields.io/badge/Environment-Jupyter%20notebook-orange"/></td>
     <td><img src="https://img.shields.io/badge/CPU-x86%20%7C%20x86__64%20%7C%20arm%20%7C%20aarch64-blue?style=flat&logo=amd&logoColor=b0c0c0&labelColor=363D44" alt="CPU Architect"/></td>
   </tr>
