@@ -18,7 +18,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Solution-Python-blue.svg?style=flat&logo=c%2B%2B&logoColor=b0c0c0&labelColor=363D44" alt="Python solution"/></td>
     <td><img src="https://img.shields.io/badge/Environment-Jupyter%20notebook-orange"/></td>
-    td><img src="https://img.shields.io/badge/CPU-x86%20%7C%20x86__64%20%7C%20arm%20%7C%20aarch64-blue?style=flat&logo=amd&logoColor=b0c0c0&labelColor=363D44" alt="CPU Architect"/></td>
+    <td><img src="https://img.shields.io/badge/CPU-x86%20%7C%20x86__64%20%7C%20arm%20%7C%20aarch64-blue?style=flat&logo=amd&logoColor=b0c0c0&labelColor=363D44" alt="CPU Architect"/></td>
   </tr>
 </table>
 
